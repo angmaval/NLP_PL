@@ -3,9 +3,6 @@ Este proyecto es, inicialmente, la descripción del primer proyecto del curso "L
 Durante la clase se decidió que el proyecto consistirá en procesar dichos párrafos para obtener los "datos" presentes en ellos y resumir el estado de la clase según lo hallado.
 
 Los parámetros definidos por el curso son los siguientes:
-+ Nombre
-+ Edad
-+ Estatura
 + Peso
 * Dirección
 + Carrera
